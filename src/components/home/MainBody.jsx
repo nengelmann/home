@@ -8,7 +8,7 @@ const MainBody = React.forwardRef(
     return (
       <Jumbotron
         fluid
-        id="portfolio"
+        id="home"
         style={{
           background: `linear-gradient(136deg,${gradient})`,
           backgroundSize: "1200% 1200%",
