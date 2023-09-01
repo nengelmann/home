@@ -4,7 +4,7 @@
 2. Clone the forked repo from your account using:
 
    ```bash
-     git clone https://github.com/<your-username>/home.git
+     git clone https://github.com/<your-username>/portfolio.git
    ```
 
 3. Open in editor and edit [src/editable-stuff/configurations.json](./src/editable-stuff/configurations.json) file.
@@ -22,7 +22,7 @@
 
    ```js
    const repoURL =
-     "https://github.com/<your-username>/<your-username>.github.io.git";
+     'https://github.com/<your-username>/<your-username>.github.io.git'
    ```
 
 9. To deploy website, run:
