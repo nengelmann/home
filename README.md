@@ -5,13 +5,13 @@
   <p align="center">
     This is my personal static portfolio site hosted with GitHub Pages.
     <br /> 
-    Click here -> <a href="https://nengelmann.github.io/portfolio">Portfolio Site </a>
+    Click here -> <a href="https://nengelmann.github.io/home">Portfolio Site </a>
     <br />
     <br />
   </p>
 </p>
 
-[![Site preview](/public/social-image.png)](https://nengelmann.github.io/portfolio)
+[![Site preview](/public/social-image.png)](https://nengelmann.github.io/home)
 
 ## Structure ⚓
 
@@ -47,7 +47,7 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
 2. Clone the forked repo from your account using:
 
    ```bash
-     git clone https://github.com/<your-username>/portfolio.git
+     git clone https://github.com/<your-username>/home.git
    ```
 
 3. Open in editor and edit [src/editable-stuff/config.js](./src/editable-stuff/config.js) file.
@@ -58,7 +58,7 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
 6. Change URL in [package.json](./package.json) file:
 
    ```json
-    "homepage": "https://<your-username>.github.io/portfolio"
+    "homepage": "https://<your-username>.github.io/home"
    ```
 
    Or for deployment at custom domain, refer [create-react-app.dev](https://create-react-app.dev/docs/deployment/#step-1-add-homepage-to-packagejson)
@@ -82,7 +82,7 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
 9. Congrats your site is up and running. To see it live, visit:
 
    ```https
-     https://<your-username>.github.io/portfolio
+     https://<your-username>.github.io/home
    ```
 
 10. To change the thumbnail image:
@@ -96,6 +96,11 @@ Next time if you make changes, repeat from step 8.
 
 # License
 
-Distributed under the `LGPL-3.0 license` License. See [LICENSE](https://github.com/nengelmann/portfolio/blob/main/LICENSE) for more information.
+Distributed under the `LGPL-3.0 license` License. See [LICENSE](https://github.com/nengelmann/home/blob/main/LICENSE) for more information.
 
 This repo is based on [Hashir Shoaibs](https://github.com/hashirshoaeb) repository [/hashirshoaeb/home](https://github.com/hashirshoaeb/home).
+
+nengelmann.github.io
+portfolio page hosted on github pages
+
+nvm install v18.13.0

@@ -10,7 +10,7 @@ const Footer = (props) => {
         {props.children}
         <p>
           <small className="text-muted">
-            Project code is open source. Feel free to fork <a href="https://github.com/nengelmann/portfolio">nengelmann/portfolio</a> and make your own version.
+            Project code is open source. Feel free to fork <a href="https://github.com/nengelmann/home">nengelmann/home</a> and make your own version.
           </small>
         </p>
       </Container>
