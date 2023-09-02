@@ -5,13 +5,11 @@
   <p align="center">
     This is my personal static portfolio site hosted with GitHub Pages.
     <br /> 
-    Click here -> <a href="https://nengelmann.github.io/home">Portfolio Site </a>
+    Click here -> <a href="https://nengelmann.github.io/home/">Portfolio Site </a>
     <br />
     <br />
   </p>
 </p>
-
-[![Site preview](/public/social-image.png)](https://nengelmann.github.io/home)
 
 ## Structure ⚓
 
@@ -70,6 +68,8 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
    npm start
    ```
 
+   If an old version of npm is installed try: `nvm install v18.13.0`
+
 8. To deploy website, run:
 
    ```bash
@@ -99,8 +99,3 @@ Next time if you make changes, repeat from step 8.
 Distributed under the `LGPL-3.0 license` License. See [LICENSE](https://github.com/nengelmann/home/blob/main/LICENSE) for more information.
 
 This repo is based on [Hashir Shoaibs](https://github.com/hashirshoaeb) repository [/hashirshoaeb/home](https://github.com/hashirshoaeb/home).
-
-nengelmann.github.io
-portfolio page hosted on github pages
-
-nvm install v18.13.0
