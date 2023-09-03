@@ -12,6 +12,7 @@ const dummyProject = {
   stargazers_count: null,
   languages_url: null,
   pushed_at: null,
+  homepage: null
 };
 const API = "https://api.github.com";
 // const gitHubQuery = "/repos?sort=updated&direction=desc";
