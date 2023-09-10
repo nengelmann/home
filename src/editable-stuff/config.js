@@ -56,7 +56,7 @@ const repos = {
   show: true,
   heading: "Recent Projects",
   gitHubUsername: "nengelmann", //i.e."johnDoe12Gh"
-  reposLength: 4,
+  reposLength: 0,
   specificRepos: ["custom-dataset.com","M3T", "home"],
 };
 
