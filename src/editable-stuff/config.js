@@ -57,7 +57,7 @@ const repos = {
   heading: "Recent Projects",
   gitHubUsername: "nengelmann", //i.e."johnDoe12Gh"
   reposLength: 4,
-  specificRepos: [],
+  specificRepos: ["custom-dataset.com","M3T", "home"],
 };
 
 // Leadership SECTION
