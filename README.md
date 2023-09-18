@@ -1,15 +1,14 @@
-<br />
 <p align="center">
   <h1 align="center">Portfolio Site ✨</h1>
-
-  <p align="center">
-    This is my personal static portfolio site hosted with GitHub Pages.
-    <br /> 
-    Click here -> <a href="https://nengelmann.github.io/home/">Portfolio Site </a>
-    <br />
-    <br />
-  </p>
+  <p align="center"><a href="https://nengelmann.github.io/home/">&#x27A1;&#xFE0F; Portfolio Site - live</a></p>
 </p>
+<hr />
+<p align="center">
+    This is my personal static portfolio site hosted with GitHub Pages.
+</p>
+<hr />
+
+https://github.com/nengelmann/home/assets/120744129/ea655275-a43e-482f-80eb-74e73e168173
 
 ## Structure ⚓
 
