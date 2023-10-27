@@ -63,6 +63,7 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
 7. After editing run the following bash commands:
 
    ```bash
+   nvm use 18.13
    npm install
    npm start
    ```
