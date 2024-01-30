@@ -117,7 +117,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for full-time Computer Vision or Machine Learning opportunities! If you know of any positions available, if you have any questions, feel free to email me at",
+    "I'm currently not looking for anything specific. If you have any interesting idea or offer, feel free to email me at",
   email: "mail@nico-engelmann.de",
 };
 
