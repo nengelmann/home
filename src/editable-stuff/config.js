@@ -44,7 +44,7 @@ const about = {
   imageSize: 375,
   message:
     "I'm fascinated by the ongoing technological advancements, particularly in the areas of image processing and artificial intelligence. My dedication is to contribute to this progress and help shaping the future.",
-  resume: "https://drive.google.com/file/d/1at32LtUrX73B4JLqes6_yIGqOh6Q8neQ/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1RlzTnebeWBwwCjfSushP8f14pG-b3v-9/view",
 };
 
 // PROJECTS SECTION
@@ -57,7 +57,7 @@ const repos = {
   heading: "Recent Projects",
   gitHubUsername: "nengelmann", //i.e."johnDoe12Gh"
   reposLength: 0,
-  specificRepos: ["MeetingCam", "custom-dataset.com", "M3T", "home", "Fuyu-8B---Exploration"],
+  specificRepos: ["MeetingCam", "M3T", "home", "Fuyu-8B---Exploration"],
 };
 
 // Leadership SECTION
@@ -117,7 +117,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for full-time Computer Vision or Machine Learning opportunities! If you know of any positions available, if you have any questions, feel free to email me at",
+    "I'm currently not looking for anything specific. If you have any interesting idea or offer, feel free to email me at",
   email: "mail@nico-engelmann.de",
 };
 
