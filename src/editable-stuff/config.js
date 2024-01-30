@@ -44,7 +44,7 @@ const about = {
   imageSize: 375,
   message:
     "I'm fascinated by the ongoing technological advancements, particularly in the areas of image processing and artificial intelligence. My dedication is to contribute to this progress and help shaping the future.",
-  resume: "https://drive.google.com/file/d/1at32LtUrX73B4JLqes6_yIGqOh6Q8neQ/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1RlzTnebeWBwwCjfSushP8f14pG-b3v-9/view",
 };
 
 // PROJECTS SECTION
